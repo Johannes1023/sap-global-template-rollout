@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focused on the rollout of a global SAP template at a manufacturing site in Istanbul as part of a large transformation program with a double-digit million euro investment volume.
+This project focused on the rollout of a global SAP template at a manufacturing site in Istanbul/Turkey as part of a large transformation program with a EUR 1M+ investment volume.
 
 I worked with SAP consultants, cybersecurity specialists, business process owners, local IT, program management and external implementation partners to identify and manage technology and cybersecurity risks throughout the rollout.
 
@@ -32,11 +32,9 @@ Key topics included:
 
 ## 🧩 My Role
 
-I was the cybersecurity and technology risk expert within the project and worked closely with SAP, business and technical teams.
+I was the cybersecurity and technology risk expert within the project and worked closely with SAP, business and technical teams.Means, I reviewed the design and rollout approach from a risk and security perspective, challenged assumptions and worked with subject matter experts to understand where technical weaknesses could affect the go-live.
 
-My role was not limited to coordination. I reviewed the design and rollout approach from a risk and security perspective, challenged assumptions and worked with subject matter experts to understand where technical weaknesses could affect the go-live.
-
-I regularly discussed issues with SAP functional consultants, SAP security specialists, developers, infrastructure teams and business process owners and helped translate identified risks into concrete remediation actions.
+Also, I regularly discussed issues with SAP functional consultants, SAP security specialists, developers, infrastructure teams and business process owners and helped translate identified risks into concrete remediation actions.
 
 ---
 
